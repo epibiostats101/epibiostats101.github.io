@@ -2,8 +2,8 @@
 title: Programming in R
 ---
 
-week 1
-: **Lecture**{: .label .label-green } Introduction & R
+1
+: **Lecture**{: .label .label-blue }Introduction & R
 
-week 2
-: **Lecture**{: .label .label-green } R and GitHub
+2
+: **Lecture**{: .label .label-blue }R and GitHub

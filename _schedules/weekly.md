@@ -1,9 +1,5 @@
 ---
 timeline:
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
   - '6:00 PM'
@@ -22,7 +18,7 @@ schedule:
       - name: Lecture
         start: 6:00 PM
         end: 8:00 PM
-        location: Dwinelle 254
+        location: TBD
   - name: Tuesday
   - name: Wednesday
   - name: Thursday

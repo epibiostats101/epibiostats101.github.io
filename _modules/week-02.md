@@ -2,20 +2,21 @@
 title: Applied Machine Learning
 ---
 
-week 3
-: **Lecture**{: .label .label-green } Basic Statistical Theory & Regression
-: **Form Project Groups**{: .label .label-red } 
+3
+: **Lecture**{: .label .label-blue }Basic Statistical Theory & Regression
 
-week 4
-: **Lecture**{: .label .label-green } Machine Learning I
+4
+: **Lecture**{: .label .label-blue }Machine Learning I
+: **Form Project Groups**{: .label .label-purple } 
 
-week 5
-: **Lecture**{: .label .label-green } Machine Learning II
-: **Group Check in**{: .label .label-red } 
+5
+: **Lecture**{: .label .label-blue }Machine Learning II
+: **Group Check in**{: .label .label-purple }
 
-week 6
-: **Lecture**{: .label .label-green } Machine Learning II
-: **Mid Semester Evals**{: .label .label-red } 
+6
+: **Lecture**{: .label .label-blue }Machine Learning II
+: **Mid-Semester Evals**{: .label .label-purple } 
 
-week 7
-: **Guest Lecture**{: .label .label-green } Machine Learning in Public Health
+7
+: **Guest Lecture**{: .label .label-blue }
+: **Project Proposal Due**{: .label .label-purple } 
