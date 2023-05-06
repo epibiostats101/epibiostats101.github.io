@@ -1,0 +1,212 @@
+{"0": {
+    "doc": "Epi/Biostats 101",
+    "title": "Epi/Biostats 101: An Intro to Public Health Research Tools &amp; Techniques",
+    "content": " ",
+    "url": "/#epibiostats-101-an-intro-to-public-health-research-tools--techniques",
+    
+    "relUrl": "/#epibiostats-101-an-intro-to-public-health-research-tools--techniques"
+  },"1": {
+    "doc": "Epi/Biostats 101",
+    "title": "Important Information",
+    "content": ". | Lecture: Monday 6-8 PM | Location: TBD | Course Number: TBD | Course Email: epibiostats101@gmail.com | . ",
+    "url": "/#important-information",
+    
+    "relUrl": "/#important-information"
+  },"2": {
+    "doc": "Epi/Biostats 101",
+    "title": "Course Description",
+    "content": "Mastery of the principles and methods in epidemiology and biostatistics is fundamental for the investigation of and response to challenging modern public health issues globally. We aim to expose undergraduates from any discipline to the foundational concepts of biostatistics and epidemiology. Our goal is to broaden the perspectives of incoming freshmen and current undergraduates by exploring various public health tools and techniques. This DeCal will prepare students to undertake independent research projects, participate in formal research inquiries at UC Berkeley, and become scientifically literate public health information consumers. ",
+    "url": "/#course-description",
+    
+    "relUrl": "/#course-description"
+  },"3": {
+    "doc": "Epi/Biostats 101",
+    "title": "Epi/Biostats 101",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Welcome to Epi/Biostats 101! This website is still a work in progress. If you have any questions, please feel free to email us at epibiostats101@gmail.com . ",
+    "url": "/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"7": {
+    "doc": "Calendar",
+    "title": "Programming in R",
+    "content": "week 1 Lecture Introduction &amp; R week 2 Lecture R and GitHub ",
+    "url": "/calendar/#programming-in-r",
+    
+    "relUrl": "/calendar/#programming-in-r"
+  },"8": {
+    "doc": "Calendar",
+    "title": "Applied Machine Learning",
+    "content": "week 3 Lecture Basic Statistical Theory &amp; Regression Form Project Groups week 4 Lecture Machine Learning I week 5 Lecture Machine Learning II Group Check in week 6 Lecture Machine Learning II Mid Semester Evals week 7 Guest Lecture Machine Learning in Public Health ",
+    "url": "/calendar/#applied-machine-learning",
+    
+    "relUrl": "/calendar/#applied-machine-learning"
+  },"9": {
+    "doc": "Calendar",
+    "title": "Epidemiology",
+    "content": "week 8 Lecture Time Series and Survival Analysis Project Proposal Due week 9 LectureInfectious Disease Modeling and Simulation week 10 Lecture GIS Basics and Effective Data Visualizations ",
+    "url": "/calendar/#epidemiology",
+    
+    "relUrl": "/calendar/#epidemiology"
+  },"10": {
+    "doc": "Calendar",
+    "title": "Course Wrap Up &amp; Projects",
+    "content": "week 11 Lecture Course Recap, Work on Projects week 12 LectureProject Presentations ",
+    "url": "/calendar/#course-wrap-up-projects",
+    
+    "relUrl": "/calendar/#course-wrap-up-projects"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | . | ",
+    "url": "/schedule/#weekly-schedule",
+    
+    "relUrl": "/schedule/#weekly-schedule"
+  },"12": {
+    "doc": "Schedule",
+    "title": "",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 6:00 PM–8:00 PM Dwinelle 254 | . | ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "/staff/",
+    
+    "relUrl": "/staff/"
+  },"20": {
+    "doc": "Staff",
+    "title": "Faculty Sponsor",
+    "content": "Andrew Mertens, PhD MS MA . amertens@berkeley.edu . Schedule an appointment . ",
+    "url": "/staff/#faculty-sponsor",
+    
+    "relUrl": "/staff/#faculty-sponsor"
+  },"21": {
+    "doc": "Staff",
+    "title": "Facilitators",
+    "content": "Andrew O'Connor . andrewoc@berkeley.edu . description . Jiayin Chen . jychen303@berkeley.edu . description . ",
+    "url": "/staff/#facilitators",
+    
+    "relUrl": "/staff/#facilitators"
+  },"22": {
+    "doc": "Staff",
+    "title": "Project Mentors",
+    "content": "Carl Conste . carlconste@berkeley.edu . description . ",
+    "url": "/staff/#project-mentors",
+    
+    "relUrl": "/staff/#project-mentors"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Prerequisites | Learning Outcomes | Methods of Instruction | Attendance | Grading | . ",
+    "url": "/syllabus/#table-of-contents",
+    
+    "relUrl": "/syllabus/#table-of-contents"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "Prerequisites",
+    "content": "Beginner track: As an expository course, there are no prerequisites. Advanced track: PBHLTH 142 or DATA C8 or equivalent; Exposure to programming in R or Python . ",
+    "url": "/syllabus/#prerequisites",
+    
+    "relUrl": "/syllabus/#prerequisites"
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Learning Outcomes",
+    "content": ". | tbd | . ",
+    "url": "/syllabus/#learning-outcomes",
+    
+    "relUrl": "/syllabus/#learning-outcomes"
+  },"27": {
+    "doc": "Syllabus",
+    "title": "Methods of Instruction",
+    "content": ". | tbd | . ",
+    "url": "/syllabus/#methods-of-instruction",
+    
+    "relUrl": "/syllabus/#methods-of-instruction"
+  },"28": {
+    "doc": "Syllabus",
+    "title": "Attendance",
+    "content": ". | tbd | . ",
+    "url": "/syllabus/#attendance",
+    
+    "relUrl": "/syllabus/#attendance"
+  },"29": {
+    "doc": "Syllabus",
+    "title": "Grading",
+    "content": "This course is pass/no pass, so everything will be graded on a satisfactory completion basis. You must have a 70% or higher to pass the course. If your completion of an assignment or your participation in coursework is unsatisfactory, we will reach out to you to arrange makeup opportunities and/or to brainstorm strategies so that you may succeed in the course. The grading breakdown is shown below: . | Assignment | Percent of Grade | . | category 1 | 1 | . | category 2 | 2 | . | category 3 | 3 | . | cateogry 4 | 4 | . ",
+    "url": "/syllabus/#grading",
+    
+    "relUrl": "/syllabus/#grading"
+  }
+}
