@@ -57,158 +57,165 @@
   },"8": {
     "doc": "Calendar",
     "title": "Programming in R",
-    "content": "1 LectureIntroduction &amp; R 2 LectureR and GitHub ",
+    "content": "1 LectureIntroduction &amp; R 2 LectureData Cleaning, Visualization and GitHub ",
     "url": "/calendar/#programming-in-r",
     
     "relUrl": "/calendar/#programming-in-r"
   },"9": {
     "doc": "Calendar",
+    "title": "Biotatistics",
+    "content": "3 LectureBiostatistics Review 4 LectureRegression ",
+    "url": "/calendar/#biotatistics",
+    
+    "relUrl": "/calendar/#biotatistics"
+  },"10": {
+    "doc": "Calendar",
     "title": "Applied Machine Learning",
-    "content": "3 LectureBasic Statistical Theory &amp; Regression 4 LectureMachine Learning I Form Project Groups 5 LectureMachine Learning II Group Check in 6 LectureMachine Learning II Mid-Semester Evals 7 Guest Lecture Project Proposal Due ",
+    "content": "5 LectureMachine Learning I 6 LectureMachine Learning II 7 LectureMachine Learning II Mid-Semester Evals ",
     "url": "/calendar/#applied-machine-learning",
     
     "relUrl": "/calendar/#applied-machine-learning"
-  },"10": {
+  },"11": {
     "doc": "Calendar",
     "title": "Epidemiology",
-    "content": "8 LectureTime Series and Survival Analysis 9 LectureInfectious Disease Modeling and Simulation 10 LectureGIS Basics and Effective Data Visualizations ",
+    "content": "8 LectureEpidemiology Review 9 LectureInfectious Disease Modeling 10 LectureConfounding, Bias and Misclassification ",
     "url": "/calendar/#epidemiology",
     
     "relUrl": "/calendar/#epidemiology"
-  },"11": {
+  },"12": {
     "doc": "Calendar",
     "title": "Course Wrap Up &amp; Projects",
     "content": "11 LectureCourse Recap, Work on Projects 12 LectureProject Presentations ",
     "url": "/calendar/#course-wrap-up-projects",
     
     "relUrl": "/calendar/#course-wrap-up-projects"
-  },"12": {
+  },"13": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
-  },"13": {
+  },"14": {
     "doc": "Schedule",
     "title": "",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"14": {
+  },"15": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 6:00 PM–8:00 PM TBD | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"15": {
+  },"16": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"16": {
+  },"17": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"17": {
+  },"18": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"18": {
+  },"19": {
     "doc": "Schedule",
     "title": "Friday",
     "content": "| . ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"19": {
+  },"20": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"20": {
+  },"21": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"21": {
+  },"22": {
     "doc": "Staff",
     "title": "Faculty Sponsor",
     "content": "Andrew Mertens, PhD MS MA . amertens@berkeley.edu . Schedule an appointment . ",
     "url": "/staff/#faculty-sponsor",
     
     "relUrl": "/staff/#faculty-sponsor"
-  },"22": {
+  },"23": {
     "doc": "Staff",
     "title": "Facilitators",
     "content": "Andrew O'Connor . andrewoc@berkeley.edu . description . Jiayin Chen . jychen303@berkeley.edu . description . ",
     "url": "/staff/#facilitators",
     
     "relUrl": "/staff/#facilitators"
-  },"23": {
+  },"24": {
     "doc": "Staff",
     "title": "Project Mentors",
-    "content": "Carl Conste . carlconste@berkeley.edu . description . ",
+    "content": "test . description . ",
     "url": "/staff/#project-mentors",
     
     "relUrl": "/staff/#project-mentors"
-  },"24": {
+  },"25": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/syllabus/",
     
     "relUrl": "/syllabus/"
-  },"25": {
+  },"26": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Prerequisites | Learning Outcomes | Methods of Instruction | Attendance | Grading | . ",
     "url": "/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"26": {
+  },"27": {
     "doc": "Syllabus",
     "title": "Prerequisites",
     "content": "Beginner track: As an expository course, there are no prerequisites. Advanced track: PBHLTH 142 or DATA C8 or equivalent; Exposure to programming in R or Python . ",
     "url": "/syllabus/#prerequisites",
     
     "relUrl": "/syllabus/#prerequisites"
-  },"27": {
+  },"28": {
     "doc": "Syllabus",
     "title": "Learning Outcomes",
     "content": ". | tbd | . ",
     "url": "/syllabus/#learning-outcomes",
     
     "relUrl": "/syllabus/#learning-outcomes"
-  },"28": {
+  },"29": {
     "doc": "Syllabus",
     "title": "Methods of Instruction",
     "content": ". | tbd | . ",
     "url": "/syllabus/#methods-of-instruction",
     
     "relUrl": "/syllabus/#methods-of-instruction"
-  },"29": {
+  },"30": {
     "doc": "Syllabus",
     "title": "Attendance",
     "content": ". | tbd | . ",
     "url": "/syllabus/#attendance",
     
     "relUrl": "/syllabus/#attendance"
-  },"30": {
+  },"31": {
     "doc": "Syllabus",
     "title": "Grading",
     "content": "This course is pass/no pass, so everything will be graded on a satisfactory completion basis. You must have a 70% or higher to pass the course. If your completion of an assignment or your participation in coursework is unsatisfactory, we will reach out to you to arrange makeup opportunities and/or to brainstorm strategies so that you may succeed in the course. The grading breakdown is shown below: . | Assignment | Percent of Grade | . | category 1 | 1 | . | category 2 | 2 | . | category 3 | 3 | . | cateogry 4 | 4 | . ",

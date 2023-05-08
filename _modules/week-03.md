@@ -1,12 +1,13 @@
 ---
-title: Epidemiology
+title: Applied Machine Learning
 ---
 
-8
-: **Lecture**{: .label .label-blue }Time Series and Survival Analysis
+5
+: **Lecture**{: .label .label-blue }Machine Learning I
 
-9
-: **Lecture**{: .label .label-blue }Infectious Disease Modeling and Simulation
+6
+: **Lecture**{: .label .label-blue }Machine Learning II
 
-10
-: **Lecture**{: .label .label-blue }GIS Basics and Effective Data Visualizations
+7
+: **Lecture**{: .label .label-blue }Machine Learning II
+: **Mid-Semester Evals**{: .label .label-purple } 

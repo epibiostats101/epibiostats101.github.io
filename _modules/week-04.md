@@ -1,9 +1,12 @@
 ---
-title: Course Wrap Up & Projects
+title: Epidemiology
 ---
 
-11
-: **Lecture**{: .label .label-blue }Course Recap, Work on Projects
+8
+: **Lecture**{: .label .label-blue }Epidemiology Review
 
-12
-: **Lecture**{: .label .label-blue }Project Presentations
+9
+: **Lecture**{: .label .label-blue }Infectious Disease Modeling
+
+10
+: **Lecture**{: .label .label-blue }Confounding, Bias and Misclassification

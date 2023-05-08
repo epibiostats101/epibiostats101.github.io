@@ -1,7 +1,7 @@
 ---
-name: Carl Conste
+name: test
 role: Project Mentor
-email: carlconste@berkeley.edu
+email: 
 website:
 photo: blank_profile.jpg
 ---

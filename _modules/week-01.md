@@ -6,4 +6,4 @@ title: Programming in R
 : **Lecture**{: .label .label-blue }Introduction & R
 
 2
-: **Lecture**{: .label .label-blue }R and GitHub
+: **Lecture**{: .label .label-blue }Data Cleaning, Visualization and GitHub
