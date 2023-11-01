@@ -1,9 +1,6 @@
 ---
-title: Course Wrap Up & Projects
+title: Final Projects
 ---
 
 11
-: **Lecture**{: .label .label-blue }Course Recap, Work on Projects
-
-12
-: **Lecture**{: .label .label-blue }Project Presentations
+: **Lecture**{: .label .label-green }Project Presentations

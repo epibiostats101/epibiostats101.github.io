@@ -18,6 +18,7 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% assign facilitators = site.staffers | where: 'role', 'Facilitator' %}
 {% assign num_facilitators = facilitators | size %}
 {% if num_facilitators != 0 %}
+
 ## Facilitators
 
 {% for staffer in facilitators %}
@@ -29,8 +30,8 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% assign mentors = site.staffers | where: 'role', 'Project Mentor' %}
 {% assign num_mentors = mentors | size %}
 {% if num_mentors != 0 %}
-## Project Mentors
 
+## Project Mentors
 {% for staffer in mentors %}
 {{ staffer }}<br>
 {% endfor %}

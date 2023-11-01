@@ -41,186 +41,298 @@
     
     "relUrl": "/announcements/"
   },"6": {
-    "doc": "Calendar",
+    "doc": "Home",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/calendar/#announcements",
+    
+    "relUrl": "/calendar/#announcements"
+  },"7": {
+    "doc": "Home",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Welcome to Epi/Biostats 101! This website is still a work in progress. If you have any questions, please feel free to email us at epibiostats101@gmail.com . ",
+    "url": "/calendar/",
+    
+    "relUrl": "/calendar/"
+  },"8": {
+    "doc": "Home",
     "title": "Calendar",
+    "content": " ",
+    "url": "/calendar/#calendar",
+    
+    "relUrl": "/calendar/#calendar"
+  },"9": {
+    "doc": "Home",
+    "title": "Introduction",
+    "content": "1 LectureIntro to Epi/Biostats 101 Slides ",
+    "url": "/calendar/#introduction",
+    
+    "relUrl": "/calendar/#introduction"
+  },"10": {
+    "doc": "Home",
+    "title": "Fundamentals",
+    "content": "2 Lecture Computing Fundamentals Slides Tutorial 1 HW 1 3 Lecture Descriptive Statistics &amp; Probability Slides Tutorial 2 4 Lecture Pandas Slides Tutorial 3 HW 2 ",
+    "url": "/calendar/#fundamentals",
+    
+    "relUrl": "/calendar/#fundamentals"
+  },"11": {
+    "doc": "Home",
+    "title": "Predictive Modeling",
+    "content": "5 Lecture Modeling Basics Slides Tutorial 4 HW 3 6 Lecture Machine Learning Methods Slides Tutorial 5 HW 4 ",
+    "url": "/calendar/#predictive-modeling",
+    
+    "relUrl": "/calendar/#predictive-modeling"
+  },"12": {
+    "doc": "Home",
+    "title": "Epidemiology",
+    "content": "7 Lecture Epidemiology &amp; Study Designs HW 5 8 Lecture Confounding, Bias and Misclassification HW 6 9 Lecture Infectious Disease Models HW 7 10 Lecture Causal Inference HW 8 ",
+    "url": "/calendar/#epidemiology",
+    
+    "relUrl": "/calendar/#epidemiology"
+  },"13": {
+    "doc": "Home",
+    "title": "Final Projects",
+    "content": "11 LectureProject Presentations ",
+    "url": "/calendar/#final-projects",
+    
+    "relUrl": "/calendar/#final-projects"
+  },"14": {
+    "doc": "Home",
+    "title": "Home",
     "content": " ",
     "url": "/calendar/",
     
     "relUrl": "/calendar/"
-  },"7": {
-    "doc": "Calendar",
-    "title": "Preparation",
-    "content": "0 InfosessionTBD Pre-Semester Survey Prerequisite Assignment ",
-    "url": "/calendar/#preparation",
+  },"15": {
+    "doc": "Reader",
+    "title": "Reader",
+    "content": " ",
+    "url": "/reader/",
     
-    "relUrl": "/calendar/#preparation"
-  },"8": {
-    "doc": "Calendar",
-    "title": "Programming in R",
-    "content": "1 LectureIntroduction &amp; R 2 LectureData Cleaning, Visualization and GitHub ",
-    "url": "/calendar/#programming-in-r",
+    "relUrl": "/reader/"
+  },"16": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "/resources/",
     
-    "relUrl": "/calendar/#programming-in-r"
-  },"9": {
-    "doc": "Calendar",
-    "title": "Biotatistics",
-    "content": "3 LectureBiostatistics Review 4 LectureRegression ",
-    "url": "/calendar/#biotatistics",
+    "relUrl": "/resources/"
+  },"17": {
+    "doc": "Resources",
+    "title": "Table of contents",
+    "content": ". | Textbooks for Statistics Reference | Python | Biostatistics | Epidemiology | . ",
+    "url": "/resources/#table-of-contents",
     
-    "relUrl": "/calendar/#biotatistics"
-  },"10": {
-    "doc": "Calendar",
-    "title": "Applied Machine Learning",
-    "content": "5 LectureMachine Learning I 6 LectureMachine Learning II 7 LectureMachine Learning II Mid-Semester Evals ",
-    "url": "/calendar/#applied-machine-learning",
+    "relUrl": "/resources/#table-of-contents"
+  },"18": {
+    "doc": "Resources",
+    "title": "Textbooks for Statistics Reference",
+    "content": "DATA C8 Textbook (Inferential Thinking) . DATA C88S Textbook (Theory Meets Data) . DATA C140 Textbook (Probability for Data Science) . StatLect: Probability Distributions . Introductory Statistics - saylor.org . ",
+    "url": "/resources/#textbooks-for-statistics-reference",
     
-    "relUrl": "/calendar/#applied-machine-learning"
-  },"11": {
-    "doc": "Calendar",
+    "relUrl": "/resources/#textbooks-for-statistics-reference"
+  },"19": {
+    "doc": "Resources",
+    "title": "Python",
+    "content": "Online Compiler and Debugger . Fundamentals of Programming - Pandas Glossary Kaggle - Data Cleaning . Kaggle - Pandas . ",
+    "url": "/resources/#python",
+    
+    "relUrl": "/resources/#python"
+  },"20": {
+    "doc": "Resources",
+    "title": "Biostatistics",
+    "content": "Applied Biostatistics (Yaniv Brandvain) . Causal Inference for The Brave And True . ",
+    "url": "/resources/#biostatistics",
+    
+    "relUrl": "/resources/#biostatistics"
+  },"21": {
+    "doc": "Resources",
     "title": "Epidemiology",
-    "content": "8 LectureEpidemiology Review 9 LectureInfectious Disease Modeling 10 LectureConfounding, Bias and Misclassification ",
-    "url": "/calendar/#epidemiology",
+    "content": "coming soon! . ",
+    "url": "/resources/#epidemiology",
     
-    "relUrl": "/calendar/#epidemiology"
-  },"12": {
-    "doc": "Calendar",
-    "title": "Course Wrap Up &amp; Projects",
-    "content": "11 LectureCourse Recap, Work on Projects 12 LectureProject Presentations ",
-    "url": "/calendar/#course-wrap-up-projects",
-    
-    "relUrl": "/calendar/#course-wrap-up-projects"
-  },"13": {
+    "relUrl": "/resources/#epidemiology"
+  },"22": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
-  },"14": {
+  },"23": {
     "doc": "Schedule",
     "title": "",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"15": {
+  },"24": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 6:00 PM–8:00 PM TBD | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"16": {
+  },"25": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"17": {
+  },"26": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"18": {
+  },"27": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"19": {
+  },"28": {
     "doc": "Schedule",
     "title": "Friday",
     "content": "| . ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"20": {
+  },"29": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"21": {
+  },"30": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"22": {
+  },"31": {
     "doc": "Staff",
     "title": "Faculty Sponsor",
-    "content": "Andrew Mertens, PhD MS MA . amertens@berkeley.edu . Schedule an appointment . ",
+    "content": "Andrew Mertens, PhD MS MA . amertens@berkeley.edu . ",
     "url": "/staff/#faculty-sponsor",
     
     "relUrl": "/staff/#faculty-sponsor"
-  },"23": {
+  },"32": {
     "doc": "Staff",
     "title": "Facilitators",
-    "content": "Andrew O'Connor . andrewoc@berkeley.edu . description . Jiayin Chen . jychen303@berkeley.edu . description . ",
+    "content": "Andrew O'Connor . andrewoc@berkeley.edu . description . Carl Conste . carlconste@berkeley.edu . description . ",
     "url": "/staff/#facilitators",
     
     "relUrl": "/staff/#facilitators"
-  },"24": {
-    "doc": "Staff",
-    "title": "Project Mentors",
-    "content": "test . description . ",
-    "url": "/staff/#project-mentors",
-    
-    "relUrl": "/staff/#project-mentors"
-  },"25": {
+  },"33": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/syllabus/",
     
     "relUrl": "/syllabus/"
-  },"26": {
+  },"34": {
     "doc": "Syllabus",
     "title": "Table of contents",
-    "content": ". | Prerequisites | Learning Outcomes | Methods of Instruction | Attendance | Grading | . ",
+    "content": ". | Course Description | Prerequisites | Learning Outcomes | Methods of Instruction | Attendance | Grading | Weekly Schedule | . ",
     "url": "/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"27": {
+  },"35": {
+    "doc": "Syllabus",
+    "title": "Course Description",
+    "content": "Mastery of the principles and methods in epidemiology and biostatistics is fundamental for the investigation of and response to challenging modern public health issues globally. We aim to expose undergraduates from any discipline to the foundational concepts of biostatistics and epidemiology. Our goal is to broaden the perspectives of incoming freshmen and current undergraduates by exploring various public health tools and techniques. This DeCal will prepare students to undertake independent research projects, participate in formal research inquiries at UC Berkeley, and become scientifically literate public health information consumers. ",
+    "url": "/syllabus/#course-description",
+    
+    "relUrl": "/syllabus/#course-description"
+  },"36": {
     "doc": "Syllabus",
     "title": "Prerequisites",
-    "content": "Beginner track: As an expository course, there are no prerequisites. Advanced track: PBHLTH 142 or DATA C8 or equivalent; Exposure to programming in R or Python . ",
+    "content": "As an expository course, there are no prerequisites. ",
     "url": "/syllabus/#prerequisites",
     
     "relUrl": "/syllabus/#prerequisites"
-  },"28": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Learning Outcomes",
-    "content": ". | tbd | . ",
+    "content": ". | Describe the role of epidemiology and biostatistics in addressing public health problems | Describe the role of data analysis in the biostatistics, epidemiology, data science, and related fields | Describe common epidemiological study designs | Calculate measures of disease and association | Calculate and interpret distributions, confidence intervals, p-values | State hypotheses and assumptions for statistical tests | Utilize Python for statistical computing and data cleaning | Understand the role of regression and predictive modeling in applications to health | Understand the role of technology, big data and AI in health | . ",
     "url": "/syllabus/#learning-outcomes",
     
     "relUrl": "/syllabus/#learning-outcomes"
-  },"29": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Methods of Instruction",
-    "content": ". | tbd | . ",
+    "content": ". | Facilitators and students will meet weekly on Mondays 6-8pm to learn theoretical concepts. The first hour will be lecture and the second hour will be reserved for in-class collaboration on assignments. Students are encouraged to discuss worksheets and projects but should submit individual copies of their own work | . ",
     "url": "/syllabus/#methods-of-instruction",
     
     "relUrl": "/syllabus/#methods-of-instruction"
-  },"30": {
+  },"39": {
     "doc": "Syllabus",
     "title": "Attendance",
-    "content": ". | tbd | . ",
+    "content": ". | Attendance is mandatory and students are expected to attend weekly classes. There are 2 unexcused absences allowed throughout the semester. In case of extenuating circumstances, we will accomodate student’s needs in order to succeed in the course. Please contact the course email to discuss accomodations and attendance related issues. | . ",
     "url": "/syllabus/#attendance",
     
     "relUrl": "/syllabus/#attendance"
-  },"31": {
+  },"40": {
     "doc": "Syllabus",
     "title": "Grading",
-    "content": "This course is pass/no pass, so everything will be graded on a satisfactory completion basis. You must have a 70% or higher to pass the course. If your completion of an assignment or your participation in coursework is unsatisfactory, we will reach out to you to arrange makeup opportunities and/or to brainstorm strategies so that you may succeed in the course. The grading breakdown is shown below: . | Assignment | Percent of Grade | . | category 1 | 1 | . | category 2 | 2 | . | category 3 | 3 | . | cateogry 4 | 4 | . ",
+    "content": "This course is pass/no pass, so everything will be graded on a satisfactory completion basis. You must have a 70% or higher to pass the course. If your completion of an assignment or your participation in coursework is unsatisfactory, we will reach out to you to arrange makeup opportunities and/or to brainstorm strategies so that you may succeed in the course. The grading breakdown is shown below: . | Assignment | Percent of Grade | . | Attendance | 25% | . | Assignments | 30% | . | Final Project | 25% | . | Final Presentation | 20% | . ",
     "url": "/syllabus/#grading",
     
     "relUrl": "/syllabus/#grading"
+  },"41": {
+    "doc": "Syllabus",
+    "title": "Weekly Schedule",
+    "content": ". | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | . | ",
+    "url": "/syllabus/#weekly-schedule",
+    
+    "relUrl": "/syllabus/#weekly-schedule"
+  },"42": {
+    "doc": "Syllabus",
+    "title": "",
+    "content": "| ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"43": {
+    "doc": "Syllabus",
+    "title": "Monday",
+    "content": ". | Lecture 6:00 PM–8:00 PM TBD | . | ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"44": {
+    "doc": "Syllabus",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"45": {
+    "doc": "Syllabus",
+    "title": "Wednesday",
+    "content": "| ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"46": {
+    "doc": "Syllabus",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"47": {
+    "doc": "Syllabus",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
   }
 }
