@@ -10,12 +10,15 @@ seo:
 
 # Epi/Biostats 101: An Intro to Public Health Research Tools & Techniques
 
+# UC Berkeley, Fall 2023
+{: .text-delta }
+
 
 ## Important Information
 
 - **Lecture**: Monday 6-8 PM
-- **Location**: TBD
-- **Course Number**: TBD
+- **Location**: Dwinelle 104
+- **Course Number**: 30102
 - **Course Email**: [epibiostats101@gmail.com](mailto:epibiostats101@gmail.com)
 
 ## Course Description
