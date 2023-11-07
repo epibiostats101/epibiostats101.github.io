@@ -9,7 +9,7 @@ title: Epidemiology
 : **Final Project**{: .label .label-red }[Files](https://drive.google.com/file/d/10MuDJnXoTz9UcC-wUvDJwzYbyfpzXEUv/view?usp=drive_link)
 
 8
-: **Lecture**{: .label .label-green } Confounding, Bias and Misclassification
+: **Lecture**{: .label .label-green } Confounding, Bias, Causal Inference
 : **HW 8**{: .label .label-blue }
 
 9

@@ -7,8 +7,9 @@ nav_exclude: true
 
 # Lecture 6 - Machine Learning Methods
 
-- Tutorial 6 **This week's tutorial will be replaced by the homework walkthrough.**
-- [HW6 Blank]
-- HW6 Solutions
+ **This week's homework is cancelled, replaced with a tutorial walkthrough.**
+
+- Tutorial
     - [HTML]
-    - [Notebook]
+    - [Notebook] 
+- Video Walkthough (**Coming soon!**)

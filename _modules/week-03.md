@@ -10,5 +10,5 @@ title: Predictive Modeling
 
 6
 : **Lecture**{: .label .label-green } [Machine Learning Methods](../../lec/lec6)
-    : [Slides]()
-: **HW 6**{: .label .label-purple }
+    : Video
+: **Tutorial 6**{: .label .label-purple }
