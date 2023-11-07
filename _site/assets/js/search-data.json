@@ -78,14 +78,14 @@
   },"11": {
     "doc": "Home",
     "title": "Fundamentals",
-    "content": "2 Lecture Computing Fundamentals Slides Tutorial 2 HW 2 3 Lecture Descriptive Statistics &amp; Probability Slides Tutorial 3 HW 2 4 Lecture Pandas Slides Tutorial 4 HW 4 [Solutions] ",
+    "content": "2 Lecture Computing Fundamentals Slides Tutorial 2 HW 2 3 Lecture Descriptive Statistics &amp; Probability Slides Tutorial 3 HW 2 4 Lecture Pandas Slides Tutorial 4 HW 4 ",
     "url": "/calendar/#fundamentals",
     
     "relUrl": "/calendar/#fundamentals"
   },"12": {
     "doc": "Home",
     "title": "Predictive Modeling",
-    "content": "5 Lecture Modeling Basics Slides Tutorial 5 HW 5 [Solutions] 6 Lecture Machine Learning Methods Slides Tutorial 6 HW 6 [Solutions] ",
+    "content": "5 Lecture Modeling Basics Slides Tutorial 5 HW 5 6 Lecture Machine Learning Methods Slides HW 6 ",
     "url": "/calendar/#predictive-modeling",
     
     "relUrl": "/calendar/#predictive-modeling"
@@ -113,28 +113,28 @@
   },"16": {
     "doc": "Lecture 4 - Pandas",
     "title": "Lecture 4 - Pandas",
-    "content": ". | Tutorial 4 (HTML) (Notebook) | HW4 Blank | [HW4 Solutions] (HTML) (Notebook) | . ",
+    "content": ". | Tutorial 4 . | [HTML] | [Notebook] | . | HW4 Blank | HW4 Solutions . | HTML | Notebook | . | . ",
     "url": "/lec/lec4/",
     
     "relUrl": "/lec/lec4/"
   },"17": {
     "doc": "Lecture 5 - Modeling Basics",
     "title": "Lecture 5 - Modeling Basics",
-    "content": ". | [Tutorial 5] (HTML) (Notebook) | [HW5 Blank] | [HW5 Solutions] (HTML) (Notebook) | . ",
+    "content": ". | Tutorial 5 . | HTML | . | HW5 Blank | HW5 Solutions . | [HTML] | [Notebook] | . | . ",
     "url": "/lec/lec5/",
     
     "relUrl": "/lec/lec5/"
   },"18": {
     "doc": "Lecture 6 - Machine Learning Methods",
     "title": "Lecture 6 - Machine Learning Methods",
-    "content": ". | [Tutorial 6] (HTML) (Notebook) | [HW6 Blank] | [HW6 Solutions] (HTML) (Notebook) | . ",
+    "content": ". | Tutorial 6 This week’s tutorial will be replaced by the homework walkthrough. | [HW6 Blank] | HW6 Solutions . | [HTML] | [Notebook] | . | . ",
     "url": "/lec/lec6/",
     
     "relUrl": "/lec/lec6/"
   },"19": {
     "doc": "Lecture 7 - Epidemiology and Study Designs",
     "title": "Lecture 7 - Epidemiology and Study Designs",
-    "content": ". | [Tutorial 7] (HTML) | [HW7 Blank] | [HW7 Solutions] (HTML) (Notebook) | . ",
+    "content": ". | Tutorial 7 . | [HTML] | . | HW7 Blank | HW7 Solutions . | [HTML] | [Notebook] | . | . ",
     "url": "/lec/lec7/",
     
     "relUrl": "/lec/lec7/"

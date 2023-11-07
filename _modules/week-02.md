@@ -19,5 +19,4 @@ title: Fundamentals
     : [Slides](https://docs.google.com/presentation/d/1TDJzhyfvmE7_O2oMjtwJz6EaJVdGfSUI/edit#slide=id.g27f87c5a68c_0_756)
 : **Tutorial 4**{: .label .label-purple }
 : **HW 4**{: .label .label-blue }
-    : [Solutions]
 
