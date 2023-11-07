@@ -1,9 +1,11 @@
 ---
-title: Week 0 Announcement
-week: 0
-date: 2019-04-01
+title: Announcements
+week: 
+date: 2019-06-11
 ---
 
-Welcome to Epi/Biostats 101! This website is still a work in progress.
+Welcome to the new Epi/Biostats 101 website! This is still a work in progress.
+
+The Final Project will be released during class on November 6th, 2023.
 
 If you have any questions, please feel free to email us at [epibiostats101@gmail.com](mailto:epibiostats101@gmail.com)
