@@ -9,7 +9,8 @@ title: Epidemiology
 : **Final Project**{: .label .label-red }[Files](https://drive.google.com/file/d/10MuDJnXoTz9UcC-wUvDJwzYbyfpzXEUv/view?usp=drive_link)
 
 8
-: **Lecture**{: .label .label-green } Confounding, Bias, Causal Inference
+: **Lecture**{: .label .label-green } Causal Inference
+    : [Slides](https://docs.google.com/presentation/d/1vPzlNxFG_7s-I4YSEdah-fgpHRslU2pf/edit#slide=id.g27f87c5a68c_0_756)
 : **HW 8**{: .label .label-blue }
 
 9
@@ -17,6 +18,6 @@ title: Epidemiology
 : **HW 9**{: .label .label-blue }
 
 10
-: **Lecture**{: .label .label-green } Causal Inference
+: **Lecture**{: .label .label-green } Project Day
 : **HW 10**{: .label .label-blue }
 
